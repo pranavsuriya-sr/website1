@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+body{
+    background-color: black;
+}
+
+
+.black-box{
+    border-color:black;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    border-top: 0%;
+}
+.black-textborder{
+    border-color:black;
+    border-style: solid;
+    height: 95px;
+    width: 200px;
+    text-align: center;
+
+}
+.black-imageborder{
+    border-color:black;
+    border-style: solid;
+    border-radius: 1000px;
+}
+
+.heading {
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 100%;
+}
+.heading-1 {
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+    background-size: cover;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    font-size: 120px;
+    line-height: .75;
+    margin: 100px 0;
+  }
+}
+.heading h3 {
+    color: wheat;
+    font-size: 20px;
+}
+#particles-js {
+    background: black;
+    height: 100vh;
+}
+
+
+.ml5 {
+    position: relative;
+    font-weight: 300;
+    font-size: 4.5em;
+    color: #402d2d;
+  }
+  
+  .ml5 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+    line-height: 1em;
+  }
+  
+  .ml5 .line {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 3px;
+    width: 100%;
+    background-color: #402d2d;
+    transform-origin: 0.5 0;
+  }
+  
+  .ml5 .ampersand {
+    font-family: Baskerville, serif;
+    font-style: italic;
+    font-weight: 400;
+    width: 1em;
+    margin-right: -0.1em;
+    margin-left: -0.1em;
+  }
+  
+  .ml5 .letters {
+    display: inline-block;
+    opacity: 0;
+  }
+  
+  .about-me-font{
+    text-align: center;
+    
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.hi-there{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color: burlywood;
+  }
+  
+  .ml15 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+.white-contactform{
+  margin-left: auto;
+  margin-right: auto;
+  border-color: white;
+  background-color: white;
+  border-style: solid;
+  height: 575px;
+  width: 850px;
+}
+
+.fullCard {
+  background-color: palegreen;
+  width: 245px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0px 5px;
+  padding: 4px;
+}
+
+.fullCard2 {
+  background-color: palegreen;
+  width: 500px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0px 300px;
+  padding: 4px;
+}
+
+#thumbnail{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.black-contact{
+  border-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+  
+
+  
